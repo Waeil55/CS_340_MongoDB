@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS340
 
 Grazioso Salvare Dashboard
@@ -60,3 +61,6 @@ Check that the pie chart updates to reflect the current data selection.
 Select a row in the data table and verify that the map updates to show the correct location.
 Verify that all components of the dashboard (data table, pie chart, and map) are rendering correctly.
 
+=======
+# CS_340_MongoDB
+>>>>>>> f7815c4fdbcb464ecb1d103da4fa7b5d3b656a9d
